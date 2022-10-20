@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image {
+width: 7px;
+height: 9.55px;
+/* left: 184px;
+top: 120px; */
+}
